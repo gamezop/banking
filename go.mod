@@ -1,4 +1,4 @@
-module github.com/jbub/banking
+module github.com/gamezop/banking
 
 go 1.21
 
