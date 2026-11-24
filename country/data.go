@@ -507,6 +507,17 @@ var (
 				bban.NewNationalCheckDigit(2, bban.Num),
 			),
 		},
+		"MA": {
+			Name:       "Morocco",
+			Alpha2Code: "MA",
+			Alpha3Code: "MAR",
+			Structure: bban.NewStructure(
+				bban.NewBankCode(3, bban.Num),
+				bban.NewBranchCode(5, bban.Num),
+				bban.NewAccountNumber(14, bban.Num),
+				bban.NewNationalCheckDigit(2, bban.Num),
+			),
+		},
 		"NL": {
 			Name:       "Netherlands",
 			Alpha2Code: "NL",

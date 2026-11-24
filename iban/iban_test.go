@@ -70,6 +70,16 @@ var (
 			nationalCheckDigit: "4",
 		},
 		{
+			iban:               "MA64011519000001205000534921",
+			countryCode:        "MA",
+			checkDigit:         "64",
+			bban:               "011519000001205000534921",
+			bankCode:           "011",
+			branchCode:         "51900",
+			accountNumber:      "00012050005349",
+			nationalCheckDigit: "21",
+		},
+		{
 			iban:          "GL8964710001000206",
 			countryCode:   "GL",
 			checkDigit:    "89",
