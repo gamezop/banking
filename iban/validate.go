@@ -3,7 +3,7 @@ package iban
 import (
 	"strconv"
 
-	"github.com/jbub/banking/bban"
+	"github.com/gamezop/banking/bban"
 )
 
 const (
